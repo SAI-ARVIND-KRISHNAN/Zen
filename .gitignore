@@ -22,9 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.pem*
 *.ipynb*
 
 .env
 node_modules
-cert.pem
-key.pem
